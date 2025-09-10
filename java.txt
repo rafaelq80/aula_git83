@@ -1,1 +1,2 @@
 Java é uma Linguagem de Programação.
+Java é uma Linguagem Orientada a Objetos.
